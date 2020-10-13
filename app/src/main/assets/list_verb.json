@@ -1,0 +1,1274 @@
+[
+  {
+    "id": 1,
+    "type": 1,
+    "infinitive": "think",
+    "past": "thought",
+    "participle": "thought",
+    "spanish": "pensar"
+  },
+  {
+    "id": 2,
+    "type": 0,
+    "infinitive": "study",
+    "past": "studied",
+    "participle": "studied",
+    "spanish": "estudiar"
+  },
+  {
+    "id": 3,
+    "type": 0,
+    "infinitive": "pass",
+    "past": "passed",
+    "participle": "passed",
+    "spanish": "pasar"
+  },
+  {
+    "id": 4,
+    "type": 1,
+    "infinitive": "eat",
+    "past": "ate",
+    "participle": "eaten",
+    "spanish": "comer"
+  },
+  {
+    "id": 5,
+    "type": 1,
+    "infinitive": "wake - up",
+    "past": "woke - up",
+    "participle": "woken - up",
+    "spanish": "despertarse"
+  },
+  {
+    "id": 6,
+    "type": 1,
+    "infinitive": "get - up",
+    "past": "got - up",
+    "participle": "gotten - up",
+    "spanish": "levantarse"
+  },
+  {
+    "id": 7,
+    "type": 0,
+    "infinitive": "talk",
+    "past": "talked",
+    "participle": "talked",
+    "spanish": "platicar"
+  },
+  {
+    "id": 8,
+    "type": 0,
+    "infinitive": "ask",
+    "past": "asked",
+    "participle": "asked",
+    "spanish": "preguntar"
+  },
+  {
+    "id": 9,
+    "type": 0,
+    "infinitive": "answer",
+    "past": "answered",
+    "participle": "answered",
+    "spanish": "responder"
+  },
+  {
+    "id": 10,
+    "type": 1,
+    "infinitive": "see",
+    "past": "saw",
+    "participle": "seen",
+    "spanish": "ver"
+  },
+  {
+    "id": 11,
+    "type": 1,
+    "infinitive": "come",
+    "past": "came",
+    "participle": "come",
+    "spanish": "venir"
+  },
+  {
+    "id": 12,
+    "type": 0,
+    "infinitive": "play",
+    "past": "played",
+    "participle": "played",
+    "spanish": "jugar"
+  },
+  {
+    "id": 13,
+    "type": 1,
+    "infinitive": "take",
+    "past": "took",
+    "participle": "taken",
+    "spanish": "tomar"
+  },
+  {
+    "id": 14,
+    "type": 1,
+    "infinitive": "run",
+    "past": "ran",
+    "participle": "run",
+    "spanish": "correr"
+  },
+  {
+    "id": 15,
+    "type": 0,
+    "infinitive": "fail",
+    "past": "failed",
+    "participle": "failed",
+    "spanish": "reprobar"
+  },
+  {
+    "id": 16,
+    "type": 0,
+    "infinitive": "wash",
+    "past": "washed",
+    "participle": "washed",
+    "spanish": "lavar"
+  },
+  {
+    "id": 17,
+    "type": 0,
+    "infinitive": "clean",
+    "past": "cleaned",
+    "participle": "cleaned",
+    "spanish": "limpiar"
+  },
+  {
+    "id": 18,
+    "type": 0,
+    "infinitive": "walk",
+    "past": "walked",
+    "participle": "walked",
+    "spanish": "caminar"
+  },
+  {
+    "id": 19,
+    "type": 0,
+    "infinitive": "jump",
+    "past": "jumped",
+    "participle": "jumped",
+    "spanish": "saltar"
+  },
+  {
+    "id": 20,
+    "type": 1,
+    "infinitive": "swim",
+    "past": "swam",
+    "participle": "swum",
+    "spanish": "nadar"
+  },
+  {
+    "id": 21,
+    "type": 0,
+    "infinitive": "listen",
+    "past": "listened",
+    "participle": "listened",
+    "spanish": "escuchar"
+  },
+  {
+    "id": 22,
+    "type": 1,
+    "infinitive": "write",
+    "past": "wrote",
+    "participle": "written",
+    "spanish": "escribir"
+  },
+  {
+    "id": 23,
+    "type": 1,
+    "infinitive": "make",
+    "past": "made",
+    "participle": "made",
+    "spanish": "hacer"
+  },
+  {
+    "id": 24,
+    "type": 1,
+    "infinitive": "drink",
+    "past": "drank",
+    "participle": "drunk",
+    "spanish": "beber"
+  },
+  {
+    "id": 25,
+    "type": 1,
+    "infinitive": "smell",
+    "past": "smelt",
+    "participle": "smelt",
+    "spanish": "oler"
+  },
+  {
+    "id": 26,
+    "type": 1,
+    "infinitive": "have",
+    "past": "had",
+    "participle": "had",
+    "spanish": "tener"
+  },
+  {
+    "id": 27,
+    "type": 0,
+    "infinitive": "help",
+    "past": "helped",
+    "participle": "helped",
+    "spanish": "ayudar"
+  },
+  {
+    "id": 28,
+    "type": 0,
+    "infinitive": "push",
+    "past": "pushed",
+    "participle": "pushed",
+    "spanish": "empujar"
+  },
+  {
+    "id": 29,
+    "type": 0,
+    "infinitive": "open",
+    "past": "opened",
+    "participle": "opened",
+    "spanish": "abrir"
+  },
+  {
+    "id": 30,
+    "type": 1,
+    "infinitive": "sing",
+    "past": "sang",
+    "participle": "sung",
+    "spanish": "cantar"
+  },
+  {
+    "id": 31,
+    "type": 0,
+    "infinitive": "cry",
+    "past": "cried",
+    "participle": "cried",
+    "spanish": "llorar"
+  },
+  {
+    "id": 32,
+    "type": 0,
+    "infinitive": "watch",
+    "past": "watched",
+    "participle": "watched",
+    "spanish": "observar"
+  },
+  {
+    "id": 33,
+    "type": 0,
+    "infinitive": "pull",
+    "past": "pulled",
+    "participle": "pulled",
+    "spanish": "jalar"
+  },
+  {
+    "id": 34,
+    "type": 1,
+    "infinitive": "drive",
+    "past": "drove",
+    "participle": "driven",
+    "spanish": "conducir"
+  },
+  {
+    "id": 35,
+    "type": 0,
+    "infinitive": "stay",
+    "past": "stayed",
+    "participle": "stayed",
+    "spanish": "permanecer"
+  },
+  {
+    "id": 36,
+    "type": 0,
+    "infinitive": "comb",
+    "past": "combed",
+    "participle": "combed",
+    "spanish": "peinar"
+  },
+  {
+    "id": 37,
+    "type": 0,
+    "infinitive": "look",
+    "past": "looked",
+    "participle": "looked",
+    "spanish": "mirar"
+  },
+  {
+    "id": 38,
+    "type": 1,
+    "infinitive": "sell",
+    "past": "sold",
+    "participle": "sold",
+    "spanish": "vender"
+  },
+  {
+    "id": 39,
+    "type": 1,
+    "infinitive": "speak",
+    "past": "spoke",
+    "participle": "spoken",
+    "spanish": "hablar"
+  },
+  {
+    "id": 40,
+    "type": 1,
+    "infinitive": "cut",
+    "past": "cut",
+    "participle": "cut",
+    "spanish": "cortar"
+  },
+  {
+    "id": 41,
+    "type": 1,
+    "infinitive": "be",
+    "past": "was\nwere",
+    "participle": "been",
+    "spanish": "ser\nestar"
+  },
+  {
+    "id": 42,
+    "type": 1,
+    "infinitive": "show",
+    "past": "showed",
+    "participle": "shown",
+    "spanish": "mostrar"
+  },
+  {
+    "id": 43,
+    "type": 1,
+    "infinitive": "say",
+    "past": "said",
+    "participle": "said",
+    "spanish": "decir"
+  },
+  {
+    "id": 44,
+    "type": 1,
+    "infinitive": "tell",
+    "past": "told",
+    "participle": "told",
+    "spanish": "narrar"
+  },
+  {
+    "id": 45,
+    "type": 1,
+    "infinitive": "sleep",
+    "past": "slept",
+    "participle": "slept",
+    "spanish": "dormir"
+  },
+  {
+    "id": 46,
+    "type": 1,
+    "infinitive": "sit",
+    "past": "sat",
+    "participle": "sat",
+    "spanish": "sentarse"
+  },
+  {
+    "id": 47,
+    "type": 0,
+    "infinitive": "use",
+    "past": "used",
+    "participle": "used",
+    "spanish": "usar"
+  },
+  {
+    "id": 48,
+    "type": 0,
+    "infinitive": "arrive",
+    "past": "arrived",
+    "participle": "arrived",
+    "spanish": "llegar"
+  },
+  {
+    "id": 49,
+    "type": 0,
+    "infinitive": "smoke",
+    "past": "smoked",
+    "participle": "smoked",
+    "spanish": "fumar"
+  },
+  {
+    "id": 50,
+    "type": 0,
+    "infinitive": "cook",
+    "past": "cooked",
+    "participle": "cooked",
+    "spanish": "cocinar"
+  },
+  {
+    "id": 51,
+    "type": 0,
+    "infinitive": "finish",
+    "past": "finished",
+    "participle": "finished",
+    "spanish": "terminar"
+  },
+  {
+    "id": 52,
+    "type": 0,
+    "infinitive": "change",
+    "past": "changed",
+    "participle": "changed",
+    "spanish": "cambiar"
+  },
+  {
+    "id": 53,
+    "type": 0,
+    "infinitive": "invent",
+    "past": "invented",
+    "participle": "invented",
+    "spanish": "inventar"
+  },
+  {
+    "id": 54,
+    "type": 0,
+    "infinitive": "accept",
+    "past": "accepted",
+    "participle": "accepted",
+    "spanish": "aceptar"
+  },
+  {
+    "id": 55,
+    "type": 1,
+    "infinitive": "fly",
+    "past": "flew",
+    "participle": "flown",
+    "spanish": "volar"
+  },
+  {
+    "id": 56,
+    "type": 1,
+    "infinitive": "go",
+    "past": "went",
+    "participle": "gone",
+    "spanish": "ir"
+  },
+  {
+    "id": 57,
+    "type": 1,
+    "infinitive": "read",
+    "past": "read",
+    "participle": "read",
+    "spanish": "leer"
+  },
+  {
+    "id": 58,
+    "type": 0,
+    "infinitive": "rest",
+    "past": "rested",
+    "participle": "rested",
+    "spanish": "descansar"
+  },
+  {
+    "id": 59,
+    "type": 0,
+    "infinitive": "live",
+    "past": "lived",
+    "participle": "lived",
+    "spanish": "vivir"
+  },
+  {
+    "id": 60,
+    "type": 0,
+    "infinitive": "die",
+    "past": "died",
+    "participle": "died",
+    "spanish": "morir"
+  },
+  {
+    "id": 61,
+    "type": 0,
+    "infinitive": "save",
+    "past": "saved",
+    "participle": "saved",
+    "spanish": "salvar"
+  },
+  {
+    "id": 62,
+    "type": 1,
+    "infinitive": "teach",
+    "past": "taught",
+    "participle": "taught",
+    "spanish": "enseñar"
+  },
+  {
+    "id": 63,
+    "type": 1,
+    "infinitive": "bring",
+    "past": "brought",
+    "participle": "brought",
+    "spanish": "traer"
+  },
+  {
+    "id": 64,
+    "type": 0,
+    "infinitive": "carry",
+    "past": "carried",
+    "participle": "carried",
+    "spanish": "cargar"
+  },
+  {
+    "id": 65,
+    "type": 1,
+    "infinitive": "find",
+    "past": "found",
+    "participle": "found",
+    "spanish": "encontrar"
+  },
+  {
+    "id": 66,
+    "type": 1,
+    "infinitive": "give",
+    "past": "gave",
+    "participle": "given",
+    "spanish": "dar"
+  },
+  {
+    "id": 67,
+    "type": 1,
+    "infinitive": "ride",
+    "past": "rode",
+    "participle": "ridden",
+    "spanish": "montar"
+  },
+  {
+    "id": 68,
+    "type": 1,
+    "infinitive": "hear",
+    "past": "heard",
+    "participle": "heard",
+    "spanish": "oir"
+  },
+  {
+    "id": 69,
+    "type": 0,
+    "infinitive": "rain",
+    "past": "rained",
+    "participle": "rained",
+    "spanish": "llover"
+  },
+  {
+    "id": 70,
+    "type": 1,
+    "infinitive": "spend",
+    "past": "spent",
+    "participle": "spent",
+    "spanish": "gastar"
+  },
+  {
+    "id": 71,
+    "type": 0,
+    "infinitive": "erase",
+    "past": "erased",
+    "participle": "erased",
+    "spanish": "borrar"
+  },
+  {
+    "id": 72,
+    "type": 1,
+    "infinitive": "learn",
+    "past": "learnt",
+    "participle": "learnt",
+    "spanish": "aprender"
+  },
+  {
+    "id": 73,
+    "type": 1,
+    "infinitive": "know",
+    "past": "knew",
+    "participle": "known",
+    "spanish": "saber"
+  },
+  {
+    "id": 74,
+    "type": 0,
+    "infinitive": "paint",
+    "past": "painted",
+    "participle": "painted",
+    "spanish": "pintar"
+  },
+  {
+    "id": 75,
+    "type": 1,
+    "infinitive": "buy",
+    "past": "bought",
+    "participle": "bought",
+    "spanish": "comprar"
+  },
+  {
+    "id": 76,
+    "type": 0,
+    "infinitive": "dance",
+    "past": "danced",
+    "participle": "danced",
+    "spanish": "bailar"
+  },
+  {
+    "id": 77,
+    "type": 0,
+    "infinitive": "try",
+    "past": "tried",
+    "participle": "tried",
+    "spanish": "tratar"
+  },
+  {
+    "id": 78,
+    "type": 1,
+    "infinitive": "wear",
+    "past": "wore",
+    "participle": "worn",
+    "spanish": "llevar puesto"
+  },
+  {
+    "id": 79,
+    "type": 0,
+    "infinitive": "return",
+    "past": "returned",
+    "participle": "returned",
+    "spanish": "regresar"
+  },
+  {
+    "id": 80,
+    "type": 1,
+    "infinitive": "forget",
+    "past": "forgot",
+    "participle": "forgotten",
+    "spanish": "olvidar"
+  },
+  {
+    "id": 81,
+    "type": 1,
+    "infinitive": "forgive",
+    "past": "forgave",
+    "participle": "forgiven",
+    "spanish": "perdonar"
+  },
+  {
+    "id": 82,
+    "type": 0,
+    "infinitive": "close",
+    "past": "closed",
+    "participle": "closed",
+    "spanish": "cerrar"
+  },
+  {
+    "id": 83,
+    "type": 1,
+    "infinitive": "build",
+    "past": "built",
+    "participle": "built",
+    "spanish": "construir"
+  },
+  {
+    "id": 84,
+    "type": 0,
+    "infinitive": "arrange",
+    "past": "arranged",
+    "participle": "arranged",
+    "spanish": "arreglar"
+  },
+  {
+    "id": 85,
+    "type": 1,
+    "infinitive": "do",
+    "past": "did",
+    "participle": "done",
+    "spanish": "hacer"
+  },
+  {
+    "id": 86,
+    "type": 0,
+    "infinitive": "create",
+    "past": "created",
+    "participle": "created",
+    "spanish": "crear"
+  },
+  {
+    "id": 87,
+    "type": 0,
+    "infinitive": "organize",
+    "past": "organized",
+    "participle": "organized",
+    "spanish": "organizar"
+  },
+  {
+    "id": 88,
+    "type": 0,
+    "infinitive": "love",
+    "past": "loved",
+    "participle": "loved",
+    "spanish": "amar"
+  },
+  {
+    "id": 89,
+    "type": 0,
+    "infinitive": "taste",
+    "past": "tasted",
+    "participle": "tasted",
+    "spanish": "saber\n(sabor)"
+  },
+  {
+    "id": 90,
+    "type": 0,
+    "infinitive": "like",
+    "past": "liked",
+    "participle": "liked",
+    "spanish": "gustar"
+  },
+  {
+    "id": 91,
+    "type": 0,
+    "infinitive": "hate",
+    "past": "hated",
+    "participle": "hated",
+    "spanish": "odiar"
+  },
+  {
+    "id": 92,
+    "type": 1,
+    "infinitive": "meet",
+    "past": "met",
+    "participle": "met",
+    "spanish": "conocer\n(alguien)"
+  },
+  {
+    "id": 93,
+    "type": 0,
+    "infinitive": "graduate",
+    "past": "graduated",
+    "participle": "graduated",
+    "spanish": "graduarse"
+  },
+  {
+    "id": 94,
+    "type": 0,
+    "infinitive": "plan",
+    "past": "planned",
+    "participle": "planned",
+    "spanish": "planear"
+  },
+  {
+    "id": 95,
+    "type": 0,
+    "infinitive": "miss",
+    "past": "missed",
+    "participle": "missed",
+    "spanish": "extrañar"
+  },
+  {
+    "id": 96,
+    "type": 0,
+    "infinitive": "use",
+    "past": "used",
+    "participle": "used",
+    "spanish": "usar"
+  },
+  {
+    "id": 97,
+    "type": 0,
+    "infinitive": "express",
+    "past": "expressed",
+    "participle": "expressed",
+    "spanish": "expresar"
+  },
+  {
+    "id": 98,
+    "type": 1,
+    "infinitive": "become",
+    "past": "became",
+    "participle": "become",
+    "spanish": "convertirse"
+  },
+  {
+    "id": 99,
+    "type": 0,
+    "infinitive": "call",
+    "past": "called",
+    "participle": "called",
+    "spanish": "llamar"
+  },
+  {
+    "id": 100,
+    "type": 1,
+    "infinitive": "hit",
+    "past": "hit",
+    "participle": "hit",
+    "spanish": "golpear"
+  },
+  {
+    "id": 101,
+    "type": 0,
+    "infinitive": "wait",
+    "past": "waited",
+    "participle": "waited",
+    "spanish": "esperar"
+  },
+  {
+    "id": 102,
+    "type": 0,
+    "infinitive": "explain",
+    "past": "explained",
+    "participle": "explained",
+    "spanish": "explicar"
+  },
+  {
+    "id": 103,
+    "type": 0,
+    "infinitive": "escape",
+    "past": "escaped",
+    "participle": "escaped",
+    "spanish": "escapar"
+  },
+  {
+    "id": 104,
+    "type": 0,
+    "infinitive": "work",
+    "past": "worked",
+    "participle": "worked",
+    "spanish": "trabajar"
+  },
+  {
+    "id": 105,
+    "type": 1,
+    "infinitive": "keep",
+    "past": "kept",
+    "participle": "kept",
+    "spanish": "mantener"
+  },
+  {
+    "id": 106,
+    "type": 0,
+    "infinitive": "succeed",
+    "past": "succeeded",
+    "participle": "succeeded",
+    "spanish": "tener exito"
+  },
+  {
+    "id": 107,
+    "type": 0,
+    "infinitive": "improve",
+    "past": "improved",
+    "participle": "improved",
+    "spanish": "mejorar"
+  },
+  {
+    "id": 108,
+    "type": 1,
+    "infinitive": "shake",
+    "past": "shook",
+    "participle": "shaken",
+    "spanish": "sacudir"
+  },
+  {
+    "id": 109,
+    "type": 1,
+    "infinitive": "dream",
+    "past": "dreamt",
+    "participle": "dreamt",
+    "spanish": "soñar"
+  },
+  {
+    "id": 110,
+    "type": 0,
+    "infinitive": "borrow",
+    "past": "borrowed",
+    "participle": "borrowed",
+    "spanish": "pedir prestado"
+  },
+  {
+    "id": 111,
+    "type": 1,
+    "infinitive": "lend",
+    "past": "lent",
+    "participle": "lent",
+    "spanish": "prestar"
+  },
+  {
+    "id": 112,
+    "type": 0,
+    "infinitive": "wish",
+    "past": "wished",
+    "participle": "wished",
+    "spanish": "desear"
+  },
+  {
+    "id": 113,
+    "type": 1,
+    "infinitive": "feel",
+    "past": "felt",
+    "participle": "felt",
+    "spanish": "sentir"
+  },
+  {
+    "id": 114,
+    "type": 1,
+    "infinitive": "fall",
+    "past": "fell",
+    "participle": "fallen",
+    "spanish": "caer"
+  },
+  {
+    "id": 115,
+    "type": 0,
+    "infinitive": "dial",
+    "past": "dialed",
+    "participle": "dialed",
+    "spanish": "marcar"
+  },
+  {
+    "id": 116,
+    "type": 0,
+    "infinitive": "complain",
+    "past": "complained",
+    "participle": "complained",
+    "spanish": "quejarse"
+  },
+  {
+    "id": 117,
+    "type": 0,
+    "infinitive": "comment",
+    "past": "commented",
+    "participle": "commented",
+    "spanish": "comentar"
+  },
+  {
+    "id": 118,
+    "type": 1,
+    "infinitive": "break",
+    "past": "broke",
+    "participle": "broken",
+    "spanish": "romper"
+  },
+  {
+    "id": 119,
+    "type": 0,
+    "infinitive": "happen",
+    "past": "happened",
+    "participle": "happened",
+    "spanish": "suceder"
+  },
+  {
+    "id": 120,
+    "type": 0,
+    "infinitive": "follow",
+    "past": "followed",
+    "participle": "followed",
+    "spanish": "seguir"
+  },
+  {
+    "id": 121,
+    "type": 0,
+    "infinitive": "appear",
+    "past": "appeared",
+    "participle": "appeared",
+    "spanish": "aparecer"
+  },
+  {
+    "id": 122,
+    "type": 1,
+    "infinitive": "put",
+    "past": "put",
+    "participle": "put",
+    "spanish": "poner"
+  },
+  {
+    "id": 123,
+    "type": 0,
+    "infinitive": "travel",
+    "past": "travelled",
+    "participle": "travelled",
+    "spanish": "viajar"
+  },
+  {
+    "id": 124,
+    "type": 0,
+    "infinitive": "laugh",
+    "past": "laughed",
+    "participle": "laughed",
+    "spanish": "reír"
+  },
+  {
+    "id": 125,
+    "type": 0,
+    "infinitive": "smile",
+    "past": "smiled",
+    "participle": "smiled",
+    "spanish": "sonreír"
+  },
+  {
+    "id": 126,
+    "type": 1,
+    "infinitive": "mean",
+    "past": "meant",
+    "participle": "meant",
+    "spanish": "significar"
+  },
+  {
+    "id": 127,
+    "type": 0,
+    "infinitive": "analyze",
+    "past": "analyzed",
+    "participle": "analyzed",
+    "spanish": "analizar"
+  },
+  {
+    "id": 128,
+    "type": 0,
+    "infinitive": "sound",
+    "past": "sounded",
+    "participle": "sounded",
+    "spanish": "sonar"
+  },
+  {
+    "id": 129,
+    "type": 0,
+    "infinitive": "need",
+    "past": "needed",
+    "participle": "needed",
+    "spanish": "necesitar"
+  },
+  {
+    "id": 130,
+    "type": 0,
+    "infinitive": "believe",
+    "past": "believed",
+    "participle": "believed",
+    "spanish": "creer"
+  },
+  {
+    "id": 131,
+    "type": 1,
+    "infinitive": "choose",
+    "past": "chose",
+    "participle": "chosen",
+    "spanish": "escoger"
+  },
+  {
+    "id": 132,
+    "type": 1,
+    "infinitive": "draw",
+    "past": "drew",
+    "participle": "drawn",
+    "spanish": "dibujar"
+  },
+  {
+    "id": 133,
+    "type": 1,
+    "infinitive": "leave",
+    "past": "left",
+    "participle": "left",
+    "spanish": "dejar"
+  },
+  {
+    "id": 134,
+    "type": 1,
+    "infinitive": "hide",
+    "past": "hid",
+    "participle": "hidden",
+    "spanish": "esconder"
+  },
+  {
+    "id": 135,
+    "type": 1,
+    "infinitive": "win",
+    "past": "won",
+    "participle": "won",
+    "spanish": "ganar"
+  },
+  {
+    "id": 136,
+    "type": 1,
+    "infinitive": "lose",
+    "past": "lost",
+    "participle": "lost",
+    "spanish": "perder"
+  },
+  {
+    "id": 137,
+    "type": 1,
+    "infinitive": "pay",
+    "past": "paid",
+    "participle": "paid",
+    "spanish": "pagar"
+  },
+  {
+    "id": 138,
+    "type": 0,
+    "infinitive": "prove",
+    "past": "proved",
+    "participle": "proven\nproved",
+    "spanish": "probar"
+  },
+  {
+    "id": 139,
+    "type": 1,
+    "infinitive": "send",
+    "past": "sent",
+    "participle": "sent",
+    "spanish": "enviar"
+  },
+  {
+    "id": 140,
+    "type": 1,
+    "infinitive": "shoot",
+    "past": "shot",
+    "participle": "shoot",
+    "spanish": "disparar"
+  },
+  {
+    "id": 141,
+    "type": 1,
+    "infinitive": "throw",
+    "past": "threw",
+    "participle": "thrown",
+    "spanish": "lanzar"
+  },
+  {
+    "id": 142,
+    "type": 1,
+    "infinitive": "steal",
+    "past": "stole",
+    "participle": "stolen",
+    "spanish": "robar"
+  },
+  {
+    "id": 143,
+    "type": 0,
+    "infinitive": "hurry",
+    "past": "hurried",
+    "participle": "hurried",
+    "spanish": "apurarse"
+  },
+  {
+    "id": 144,
+    "type": 0,
+    "infinitive": "count",
+    "past": "counted",
+    "participle": "counted",
+    "spanish": "contar"
+  },
+  {
+    "id": 145,
+    "type": 0,
+    "infinitive": "start",
+    "past": "started",
+    "participle": "started",
+    "spanish": "empezar"
+  },
+  {
+    "id": 146,
+    "type": 1,
+    "infinitive": "begin",
+    "past": "began",
+    "participle": "begun",
+    "spanish": "comenzar"
+  },
+  {
+    "id": 147,
+    "type": 0,
+    "infinitive": "deliver",
+    "past": "delivered",
+    "participle": "delivered",
+    "spanish": "entregar"
+  },
+  {
+    "id": 148,
+    "type": 0,
+    "infinitive": "enjoy",
+    "past": "enjoyed",
+    "participle": "enjoyed",
+    "spanish": "disfrutar"
+  },
+  {
+    "id": 149,
+    "type": 0,
+    "infinitive": "fill",
+    "past": "filled",
+    "participle": "filled",
+    "spanish": "llenar"
+  },
+  {
+    "id": 150,
+    "type": 0,
+    "infinitive": "stop",
+    "past": "stopped",
+    "participle": "stopped",
+    "spanish": "parar"
+  },
+  {
+    "id": 151,
+    "type": 0,
+    "infinitive": "continue",
+    "past": "continued",
+    "participle": "continued",
+    "spanish": "continuar"
+  },
+  {
+    "id": 152,
+    "type": 0,
+    "infinitive": "belong",
+    "past": "belonged",
+    "participle": "belonged",
+    "spanish": "pertenecer"
+  },
+  {
+    "id": 153,
+    "type": 0,
+    "infinitive": "practice",
+    "past": "practiced",
+    "participle": "practiced",
+    "spanish": "practicar"
+  },
+  {
+    "id": 154,
+    "type": 0,
+    "infinitive": "want",
+    "past": "wanted",
+    "participle": "wanted",
+    "spanish": "querer"
+  },
+  {
+    "id": 155,
+    "type": 0,
+    "infinitive": "repeat",
+    "past": "repeated",
+    "participle": "repeated",
+    "spanish": "repetir"
+  },
+  {
+    "id": 156,
+    "type": 0,
+    "infinitive": "lie",
+    "past": "lied",
+    "participle": "lied",
+    "spanish": "mentir"
+  },
+  {
+    "id": 157,
+    "type": 0,
+    "infinitive": "remember",
+    "past": "remembered",
+    "participle": "remembered",
+    "spanish": "recordar"
+  },
+  {
+    "id": 158,
+    "type": 1,
+    "infinitive": "understand",
+    "past": "understood",
+    "participle": "understood",
+    "spanish": "entender"
+  },
+  {
+    "id": 159,
+    "type": 0,
+    "infinitive": "achieve",
+    "past": "achieved",
+    "participle": "achieved",
+    "spanish": "lograr"
+  }
+]

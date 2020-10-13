@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/item_filtro"
+        android:icon="@drawable/ic_filter_list"
+        android:title="@string/filter"
+        app:showAsAction="ifRoom">
+        <menu>
+            <item
+                android:id="@+id/all_verb_item"
+                android:title="@string/all_verbs" />
+            <item
+                android:id="@+id/regular_verb_item"
+                android:title="@string/regular_verbs" />
+            <item
+                android:id="@+id/irregular_verb_item"
+                android:title="@string/irregular_verbs" />
+        </menu>
+    </item>
+</menu>

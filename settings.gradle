@@ -1,0 +1,2 @@
+rootProject.name='My Verb List'
+include ':app'

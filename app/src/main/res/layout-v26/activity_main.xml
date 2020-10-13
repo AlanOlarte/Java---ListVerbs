@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/layoutBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="5"
+        android:background="@drawable/shape_bar"
+        android:orientation="horizontal"
+        android:weightSum="100">
+
+        <LinearLayout
+            android:id="@+id/layoutInfinitive"
+            style="@style/Linear_Layout_Item_List">
+            <TextView
+                android:id="@+id/textInfinitive"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/infinitive_text"
+                android:textAlignment="center"
+                android:autoSizeTextType="none"
+                android:autoSizePresetSizes="@arrays/autosize_value"
+                style="@style/Text_ToolBar"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layoutPast"
+            style="@style/Linear_Layout_Item_List">
+            <TextView
+                android:id="@+id/textPast"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/past_text"
+                android:textAlignment="center"
+                android:autoSizeTextType="none"
+                android:autoSizePresetSizes="@arrays/autosize_value"
+                style="@style/Text_ToolBar"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layoutParticiple"
+            style="@style/Linear_Layout_Item_List">
+            <TextView
+                android:id="@+id/textParticiple"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/participle_text"
+                android:textAlignment="center"
+                android:autoSizeTextType="none"
+                android:autoSizePresetSizes="@arrays/autosize_value"
+                style="@style/Text_ToolBar"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layoutSpanish"
+            style="@style/Linear_Layout_Item_List">
+            <TextView
+                android:id="@+id/textSpanish"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/spanish_text"
+                android:textAlignment="center"
+                android:autoSizeTextType="none"
+                android:autoSizePresetSizes="@arrays/autosize_value"
+                style="@style/Text_ToolBar"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_weight="95"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+            <LinearLayout
+                android:id="@+id/table"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"/>
+    </ScrollView>
+
+</LinearLayout>

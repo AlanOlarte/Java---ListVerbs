@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Verb List</string>
+    <string name="infinitive_text">Infinitive</string>
+    <string name="past_text">Past</string>
+    <string name="participle_text">Participle</string>
+    <string name="spanish_text">Spanish</string>
+    <string name="filter">item_filter</string>
+    <string name="all_verbs">All Verbs</string>
+    <string name="regular_verbs">Regular Verbs</string>
+    <string name="irregular_verbs">Irregular Verbs</string>
+    <string name="cog_speech">Speech Config</string>
+</resources>

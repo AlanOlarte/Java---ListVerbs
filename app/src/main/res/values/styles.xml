@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Text_ToolBar">
+        <item name="android:textSize">@dimen/text_zise_tittle</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorTextIcon</item>
+    </style>
+
+    <style name="Linear_Layout_Item_List">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">25.0</item>
+    </style>
+
+    <style name="Linear_Layout_Content">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@drawable/shape_content</item>
+    </style>
+
+</resources>
